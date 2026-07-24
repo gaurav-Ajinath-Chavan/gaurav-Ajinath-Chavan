@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👋 About Me
 
 Aspiring Software Test Engineer with hands-on knowledge of Manual Testing, Selenium with Java, SQL, and API Testing.
 
