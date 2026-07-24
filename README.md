@@ -1,5 +1,11 @@
 # 💫 About Me:
-Manual Testing, Selenium with Java, SQL, API Testing, and building QA projects on GitHub.<br>Open-source QA projects, Selenium automation, and software testing projects.<br>Advanced Selenium Automation, API Testing, and CI/CD integration for QA.<br>Manual Testing, Selenium with Java, TestNG, SQL, API Testing, Git, and GitHub.<br>Manual Testing, SDLC, STLC, Test Cases, Bug Reporting, Selenium, Java, and SQL.<br>I enjoy finding software bugs and continuously improving my QA skills.
+## 👋 About Me
+
+Aspiring Software Test Engineer with hands-on knowledge of Manual Testing, Selenium with Java, SQL, and API Testing.
+
+Currently building QA projects, improving automation skills, and preparing for Software Testing opportunities.
+
+Passionate about finding defects, writing effective test cases, and continuously learning modern QA practices.
 
 
 ## 🌐 Socials:
